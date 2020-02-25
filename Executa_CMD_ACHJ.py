@@ -91,8 +91,6 @@ if __name__ == "__main__":
 
     #ssh_username = input("SSH username: ")
     #ssh_password = getpass.getpass('SSH Password: ')
-    ssh_username = "tr694869"
-    ssh_password = "Qrawtro9"
 
     ip_addr = ("10.121.2.8")
 
