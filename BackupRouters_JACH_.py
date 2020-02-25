@@ -38,10 +38,7 @@ if __name__ == "__main__":
     print ("Jump Host: " + ip_addr)
     #ssh_username = input("SSH username: ")
     #ssh_password = getpass.getpass('SSH Password: ')
-    ssh_username = "tr694869"
-    ssh_password = "Qrawtro9"
-
-
+ 
     ssh_device = {
     'device_type': 'generic_termserver',
     'ip': ip_addr,
