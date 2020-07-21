@@ -1,5 +1,5 @@
 #!/usr/bin/env python3.7
-# Author: Ricardo Tavares (jose.ricardo.tavares@huawei.com/curupas.gmail.com)
+# Author: Ricardo Tavares (curupas.gmail.com)
 #
 # Title: Decode Huawei BGP Update Message
 
@@ -31,7 +31,7 @@ banner= r"""
 ====================================================================================
 Decodifica uma BGP UPDATE MESSAGE obtida através do commando "debug bgp raw-packet"
 
-Autor: Ricardo Tavares (jose.ricardo.tavares@huawei.com) - 29/Jan/2020
+Autor: Ricardo Tavares (curupas@gmail.com) - 29/Jan/2020
 
 Requer Scapy 2.4 - Válido para dispositivos Huawei rodando VRP8
 ====================================================================================
